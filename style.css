@@ -1,1 +1,25 @@
 
+h1 {
+  float: left;
+  color: black;
+}
+ul {
+  float: right;
+}
+li {
+  float: right;
+  list-style: none;
+  padding-left: 30px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+h2 {
+    padding-left: 15px;
+    padding-top: 100px;
+}
+p{
+    padding-left: 15px;
+}

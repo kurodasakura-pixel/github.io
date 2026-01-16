@@ -1,4 +1,9 @@
 header {
+  width: 100%;
+  height: 40px;
+  backgraund: #db6010;
+}
+  
 h1 {
   float: left;
   color: black;

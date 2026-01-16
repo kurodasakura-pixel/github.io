@@ -1,13 +1,13 @@
 header {
   width: 100%;
   height: 40px;
-  backgraund-color: #db6010;
+  backgraund-color: #db 6010;
 }
   
 h1 {
   float: left;
-  color: black;
-  ba
+  color: #5B 2908;
+  backgraund-color: #ff eedb;
 }
 ul {
   float: right;
@@ -16,6 +16,7 @@ li {
   float: right;
   list-style: none;
   padding-left: 30px;
+  padding-right: 15px
 }
 li a {
   text-decoration: none;
@@ -28,4 +29,8 @@ h2 {
 }
 p{
     padding-left: 15px;
+}
+img{
+  width: 100px;
+  height: 100px;
 }
